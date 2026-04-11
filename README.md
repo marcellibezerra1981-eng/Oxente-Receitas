@@ -1,4 +1,4 @@
-# Oxente-Receitas
+ # Oxente-Receitas
 Página que oferecerá receitas com base na culinária nordestina
 Projeto IHC-UX
 Alunos:

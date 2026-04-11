@@ -11,21 +11,21 @@ Wellington Araújo,
 
 5W3h
 
-1. O que?
+1. O que? Site para fazer receitas típicas do nordeste.
 
-2. Quem?
+3. Quem? Para usuários de outros estados, ou do mesmo estado, que queira conhecer a culinária nordestina.
 
-3. Quando?
+4. Quando? Quando os usuários quiserem cozinhar.
 
-4. Onde?
+5. Onde? Em qualquer aparelho que tenha internet.
 
-5. Porque?
+6. Porque? Para que os usuários aprendam a fazer receitas nordestinas.
 
-6. Como?
+7. Como? Para aprendes receitas nordetinas.
 
-7. Quanto?
+8. Quanto? R$100 reais.
 
-8. Quantos?
+9. Quantos? 6 usuários.
 
 <html>
   <head>

@@ -2,9 +2,7 @@
 Página que oferecerá receitas com base na culinária nordestina
 Projeto IHC-UX
 Alunos:
-Carlla Lima,
 Marcelo Bezerra,
-Rafael Barbosa,
 Raphael Ramalho,
 Robson Soares,
 Wellington Araújo,
